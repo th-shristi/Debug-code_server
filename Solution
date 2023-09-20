@@ -1,0 +1,19 @@
+Following are the steps to debug source code in VS Code:
+1. Install Required Extensions
+2. Open your project
+3. Set breakpoints
+4. Configure launch setting
+5. Start debugging-
+  Click "Run and debug"
+6. Debugging controls-
+  Use the debugging controls in VS Code to navigate through the code:
+      Step Over: Proceed to the next line of code.
+      Step Into: Enter a function or method.
+      Step Out: Finish the current function or method.
+      Continue: Resume execution until the next breakpoint.
+      Restart: Restart the debugging session.
+      Stop: End the debugging session.
+7. Debug Console
+8. Fix issues
+9. Terminate debugging-
+  When you're done debugging, click the red square button in the Debug sidebar to stop the debugging session.
